@@ -1,0 +1,15 @@
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+
+# RStudio temporary project data
+.Rproj.user/
+
+# Automatically created plot files
+Rplots.pdf
+
+# Operating-system files
+.DS_Store
+Thumbs.db
